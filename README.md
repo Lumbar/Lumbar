@@ -20,7 +20,7 @@
 - .NET 10 | C# | EF Core
 - Azure | Service Bus | Redis
 - Angular | DevExtreme
-- PostgreSQL, Oracle
+- PostgreSQL, Oracle, MongoDB
 - Docker | CI/CD
 
 ---
