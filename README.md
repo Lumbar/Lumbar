@@ -1,7 +1,9 @@
 # Hi, I'm Eduardo 👋
+
 ### Tech Lead | .NET Architect | Microservices | Azure
 
 🚀 Designing and scaling mission-critical logistics systems
+
 🧠 Focus: Microservices, DDD, Event-Driven Architecture, Cloud Platforms
 
 🇩🇪 Berlin | German B1 (progressing to B2)
@@ -43,7 +45,6 @@
 
 ---
 
-## 🌐 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardoguadalupe/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
