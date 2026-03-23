@@ -16,12 +16,24 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Stack
 - .NET 10 | C# | EF Core
-- Azure | Service Bus | Redis
-- Angular | DevExtreme
-- PostgreSQL, Oracle, MongoDB
+- Azure (Service Bus, App Services, Storage)
+- Microservices & DDD
+- PostgreSQL / SQL Server / Oracle
+- Redis (caching)
+- Angular + DevExtreme
 - Docker | CI/CD
+
+---
+
+## ⚙️ Additional Experience
+
+- AWS (basic usage)
+- MongoDB
+- PHP / Ruby on Rails (legacy projects)
+- Java (previous experience)
+- Scala (exposure)
 
 ---
 
